@@ -10,3 +10,4 @@ This is a Jupyter Notebook created with reference to the official example [Azure
 
 ## Blog Post
 For more detailed explanations and insights about this project, check out my blog post:
+- [【Azure OpenAI】Using the Assistants API to create a personal assistant.](https://www.charliewei.net/2024/02/azure-openai-assistants-api.html)
